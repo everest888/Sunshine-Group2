@@ -1,0 +1,85 @@
+
+
+
+form {
+    width: 400px;
+    background: linear-gradient(135deg, rgba(46, 36, 214, 1) 9%, rgba(176, 66, 238, 1) 52%, rgba(255, 0, 232, 1) 90%);
+    padding: 25px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+div {
+    display: flex;
+}
+
+input[type=text] {
+    width: 95%;
+    height: 60px;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    font-family: PTSerif;
+    font-size: 19px;
+    color: #1f1f1f;
+    outline: none;
+    
+}
+input[type=phone] {
+    width: 15%;
+    height: 60px;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    padding-left: 20px;
+    font-family: PTSerif;
+    font-size: 19px;
+    color: #1f1f1f;
+    outline: none;
+}
+input[type=phone2] {
+    width: 80%;
+    height: 60px;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    font-family: PTSerif;
+    font-size: 19px;
+    color: #1f1f1f;
+    outline: none;
+}
+input[type=email] {
+    width: 100%;
+    height: 60px;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    font-family: PTSerif;
+    font-size: 19px;
+    color: #1f1f1f;
+    outline: none;
+}
+input[type=submit] {
+    width: 70%;
+    height: 60px;
+    background: rgb(0, 0, 0);
+    border-radius: 15px;
+    border: 0;
+    font-family: PTSerif;
+    font-size: 19px;
+    color: white;
+    outline: none;
+}
+
+
+
+
+
